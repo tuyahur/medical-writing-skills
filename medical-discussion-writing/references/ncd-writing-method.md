@@ -15,13 +15,13 @@
 |核心发现|主要结果→关键阴性/异质性→新增信息|回答引言|不把全部模型重复一遍；效应量级、阴性与参照准确|
 |文献定位|可比证据→相符/不符→具体设计差别|界定增量|人群、构念、参照、结局、时间顺序及模型可比|
 |差异解释|矛盾→候选原因→内部检验→剩余解释|让解释可反驳|不能只用methodological differences结束|
-|机制|本研究现象→外部路径证据→相容解释→测量缺口|解释现象为何合理|机制暴露是否同一构念；分子变化是否有健康方向|
+|机制|本研究现象→匹配的外部路径证据→相容解释|解释现象为何合理|机制暴露是否同一构念；分子变化是否有健康方向|
 |阴性/复杂结局|阴性→精度或构成分解→支持分析→未知|避免误读|无显著关联不等于无作用；不可强造阳性|
 |异质性|正式交互→可比直接证据→替代解释→验证|限定适用范围|两亚组显著性不同不是交互；方向不同的证据也纳入|
 |优势|具体设计→针对的偏倚/缺口→实际分析价值|说明为何相信该贡献|客观不等于无误差；重复测量不等于无反向因果|
 |局限|问题→偏倚路径→影响的推论→检验及其范围|限定主结论|检验不显著不能证明假设；偏倚方向需明确条件|
 |意义|结果→适用人群/政策尺度→实施证据门槛|解释值得研究的原因|人口普遍暴露不等于已算出可防病例|
-|结论|回收中心命题→最重要边界/下一项验证|回答引言而非引入新论点|发病与死亡、患病与进展、关联与因果不互换|
+|结论|回收中心命题→已成立的贡献与意义|回答引言而非引入新论点|发病与死亡、患病与进展、关联与因果不互换|
 
 ## 2. 六种可迁移的逻辑，不照抄论文结论
 
@@ -37,7 +37,7 @@
 
 群体患病寿命由发病概率和患病后生存共同决定，两个过程可以抵消；阴性并不直接回答个体干预效果。长睡眠组少时，无强证据可能来自精度不足。先确定是哪类情形，不用万能的“样本量不足”解释所有阴性。
 
-自拟句架：The absence of a clear association should be interpreted in light of [specific precision/measurement issue]. It does not establish [stronger null claim].
+自拟句架：The estimate for [outcome] was [effect estimate], with a confidence interval spanning [range].
 
 ### 用时间设计回应一个贯穿全文的竞争解释（Sabia）
 
@@ -53,13 +53,13 @@
 
 不同工具、数据和方法应有不同的主要偏倚机制；同一人群多篇文章不是多个独立人群复现。同向敏感性增加相容性，但检验功效不足和共同假设仍可能使所有方法同向出错。
 
-自拟句架：The direction of association was consistent across analyses with different assumptions, although shared sources of bias could remain.
+自拟句架：The direction of association was consistent across [specified analyses] with different assumptions. 共同偏倚若影响核心推论，在局限段具体说明；不例行附加让步。
 
 ### 机制要处理构念错位与净方向未知（Sabia、Wilker）
 
 睡眠紊乱证据不自动解释睡眠时长；节律紊乱的伤害不自动证明有利窗口的获益；晨间结果不自动支持午后；动物活跃期不直接映射人类钟表时间。分子响应更多不等于健康获益更大。
 
-自拟句架：Experimental evidence supports a potential role for [pathway]. However, these studies assessed [different construct/context], and we did not measure [required mediator], so this pathway remains a plausible explanation rather than an established mechanism.
+自拟句架：Experimental studies in [specific context] show [measured pathway response], providing a biological rationale for [bounded interpretation]. 使用前核对构念；错位证据不靠添加however来挽救。直接机制测量缺口若影响解释，在相关位置说明一次。
 
 ## 3. 句子任务与证据身份分开
 
@@ -89,17 +89,17 @@ R本研究结果；E外部证据；I解释；C比较；B边界；A应用/研究�
 ## 5. 自拟句架按任务使用
 
 1. 结果：In [population], [exposure] was associated with [outcome] relative to [reference].
-2. 阴性：We did not observe a clear association with [outcome], although [specific precision issue].
+2. 阴性：The estimate for [outcome] was [estimate; confidence interval].
 3. 增量：Our analysis extends previous work by [specific new measurement/comparison/outcome].
 4. 比较：These findings are consistent with [comparable evidence], but differ from [specified finding].
 5. 解释：Differences in [specific construct/design] may partly account for this discrepancy.
 6. 内部支持：The estimate attenuated after [analysis], which is compatible with [candidate explanation].
 7. 优势：The use of [design feature] allowed [analysis capability] and reduced reliance on [specific weaker source].
 8. 偏倚路径：[Issue] may have affected [measurement/selection/ordering], limiting inference about [claim].
-9. 检验边界：Results were similar after [specific sensitivity analysis], although [remaining pathway] cannot be excluded.
-10. 机制：These observations provide a rationale for considering [pathway], which was not directly assessed here.
+9. 检验边界：Results were similar after [specific sensitivity analysis], supporting the stability of [specific finding] to [tested analytic choice].
+10. 机制：Evidence from [specific experimental context] provides a biological rationale for [bounded interpretation].
 11. 验证：Studies that [observable design/measurement] would help distinguish [two explanations].
-12. 总结：Taken together, the findings characterize [bounded contribution] and support evaluation of [specific next question].
+12. 总结：Taken together, the findings identify [bounded contribution] in [population/context], extending knowledge of [specific question].
 
 这些模板不是高频原句；不要为了凑句架加入研究未做的分析。
 
@@ -107,7 +107,7 @@ R本研究结果；E外部证据；I解释；C比较；B边界；A应用/研究�
 
 从主结论挑出最能改变解释的一项路径：暴露误差、遗漏混杂、结局过程先改变暴露、样本选择/碰撞偏倚、共暴露、数据驱动界值或模型乐观估计。说明哪条可观察证据最能区分它与主解释。排除前两年死亡只能回应临近死亡疾病的一部分影响；它不能验证横断面疾病进展，也不能排除长潜伏期疾病。
 
-将关键内容分别标为有直接证据的事实、基于间接证据的推断、价值判断、目前不知道。来自原稿的方法/结果是作者报告；当数值被隐去、表图不全或实现未提供时，不把方法声明升级为已经复算确认。
+在证据审查与改稿说明中，将关键内容分别标为有直接证据的事实、基于间接证据的推断、价值判断、目前不知道；论文正文通过准确表达体现这些区别，不机械加入分类标签。来自原稿的方法/结果是作者报告；当数值被隐去、表图不全或实现未提供时，不把方法声明升级为已经复算确认。
 
 ## 7. 语料与选择本身也需要边界
 

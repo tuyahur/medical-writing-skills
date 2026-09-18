@@ -42,7 +42,7 @@ Discussion不是把结果再说一遍，也不是按主题罗列文献。它需�
 |异质性|谁的关联不同|需要交互证据并考虑亚组量、精度和多重比较|给条件性解释，不用一组显著另一组不显著证明差异|
 |应用／意义|现有证据可以用在哪里|讨论实施条件、绝对风险、验证和代价|提出研究或验证方向|
 |局限|什么推理最可能出错|说明偏倚来源→作用路径→影响哪条结论→已做和未做的检验|把结论限制到仍支持的范围|
-|总结|读者应带走什么|通常无需新证据|重复中心命题和最关键边界|
+|总结|读者应带走什么|通常无需新证据|回收中心命题与已成立的贡献；必要边界避免重复|
 
 “研究局限是单中心、样本量较小”过于空泛。更有用的是：短期测量可能不能代表长期时间模式；若错分与疾病状态有关，偏倚方向无法预设；重复监测才更直接回应这一问题。不要把所有测量误差都称为使结果趋零。
 
@@ -161,7 +161,7 @@ These findings support further trials rather than immediate changes to exercise 
 |不一致|Differences in [population/reference/measurement] may account for the discrepancy.|may后给可以被否定的解释|
 |机制|One possible explanation is [pathway], supported by [evidence type].|标明旁证与本研究证据的不同|
 |机制边界|Because [key variable] was not measured, this explanation could not be tested directly.|不能随后又宣称机制证实|
-|稳健性|The association persisted after [specific analysis], although [remaining bias] cannot be excluded.|说明检验覆盖什么、没有覆盖什么|
+|稳健性|The association persisted after [specific analysis], supporting its stability to [tested analytic choice].|说明检验覆盖什么、没有覆盖什么|
 |局限|[Limitation] may affect [specific inference] through [bias pathway].|偏倚方向不确定就明确说未知|
 |应用|These findings provide a rationale for [validation/intervention study].|研究依据与临床推荐分开|
 |总结|The findings support [bounded claim], while [specific unresolved issue] requires further evaluation.|与摘要、引言和主模型一致|

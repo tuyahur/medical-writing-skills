@@ -1,0 +1,2834 @@
+[
+  {
+    "paper": "N01",
+    "paragraph": 1,
+    "sentence": 1,
+    "id": "N01-P01-S01",
+    "heading": "Discussion",
+    "text": "Higher levels of total physical activity at any intensity and less time spent sedentary are associated with a substantially reduced risk for premature mortality, with evidence of a non-linear dose-response pattern in middle aged and older adults."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 1,
+    "sentence": 2,
+    "id": "N01-P01-S02",
+    "heading": "Discussion",
+    "text": "Our observations on the associations between accelerometry measured physical activity or sedentary time and all cause mortality provide important data for informing public health recommendations."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 1,
+    "sentence": 3,
+    "id": "N01-P01-S03",
+    "heading": "Discussion",
+    "text": "Firstly, they reinforce the non-linear, dose-response relation but with considerably larger effect sizes than in studies using self reports."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 1,
+    "sentence": 4,
+    "id": "N01-P01-S04",
+    "heading": "Discussion",
+    "text": "Secondly, the total volume of physical activity, irrespective of intensity, is associated with a substantially reduced risk of death during follow-up."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 1,
+    "sentence": 5,
+    "id": "N01-P01-S05",
+    "heading": "Discussion",
+    "text": "Thirdly, the greatest risk reduction for mortality was observed when the second quarter was compared with the referent, for all activity intensities."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 1,
+    "sentence": 6,
+    "id": "N01-P01-S06",
+    "heading": "Discussion",
+    "text": "Fourthly, maximal risk reductions were seen at about 375 min/day of light intensity physical activity or 24 min/day of moderate-to-vigorous intensity physical activity."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 1,
+    "sentence": 7,
+    "id": "N01-P01-S07",
+    "heading": "Discussion",
+    "text": "Fifthly, a statistically significantly higher risk of death was observed from 9.5 or more hours per day for time spent sedentary."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 2,
+    "sentence": 1,
+    "id": "N01-P02-S01",
+    "heading": "Discussion",
+    "text": "Our meta-analysis has several strengths."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 2,
+    "sentence": 2,
+    "id": "N01-P02-S02",
+    "heading": "Discussion",
+    "text": "Physical activity and sedentary time were measured using accelerometry, and all individual participant data were reanalysed in a harmonised manner."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 2,
+    "sentence": 3,
+    "id": "N01-P02-S03",
+    "heading": "Discussion",
+    "text": "Device based measures of sedentary time and physical activity are less prone to biases usually associated with self report."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 2,
+    "sentence": 4,
+    "id": "N01-P02-S04",
+    "heading": "Discussion",
+    "text": "However, interpreting associations with physical activity assessed by devices across studies is challenging because of variations in processing data collected from devices."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 2,
+    "sentence": 5,
+    "id": "N01-P02-S05",
+    "heading": "Discussion",
+    "text": "Our harmonised approach substantially reduced heterogeneity among studies by applying a common and standardised definition of wear time, inclusion criteria, and definitions of thresholds for physical activity intensity and sedentary time."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 2,
+    "sentence": 6,
+    "id": "N01-P02-S06",
+    "heading": "Discussion",
+    "text": "Furthermore, the large sample size allowed meta-analyses of the dose-response relations between various intensities of physical activity, including low and high light, and all cause mortality, as well as providing more precise results with narrower confidence intervals than in previous studies."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 2,
+    "sentence": 7,
+    "id": "N01-P02-S07",
+    "heading": "Discussion",
+    "text": "Finally, we defined the absolute amount of time associated with maximal risk reduction for all cause mortality for different levels of physical activity intensity and identified a threshold for sedentary time where the risk of death increased more rapidly, based on the shape of the curve for the dose-response association."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 1,
+    "id": "N01-P03-S01",
+    "heading": "Discussion",
+    "text": "This study also has some limitations."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 2,
+    "id": "N01-P03-S02",
+    "heading": "Discussion",
+    "text": "All studies were conducted in the US and western Europe limiting generalisability beyond these populations."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 3,
+    "id": "N01-P03-S03",
+    "heading": "Discussion",
+    "text": "All study data were analysed with men and women combined and after adjustment for sex."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 4,
+    "id": "N01-P03-S04",
+    "heading": "Discussion",
+    "text": "Thus we cannot exclude different associations between sexes; however, the results from the two studies of men and women separately are in agreement, suggesting the observed associations are similar."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 5,
+    "id": "N01-P03-S05",
+    "heading": "Discussion",
+    "text": "Residual confounding might exist, although the studies adjusted their analyses for several covariates (often including pre-existing illness, mobility limitations; all studies adjusted for smoking) in the final model and results were similar to those from the primary model, including sex, age, BMI, socioeconomic status, and wear time."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 6,
+    "id": "N01-P03-S06",
+    "heading": "Discussion",
+    "text": "We attempted to minimise bias from reverse causation by excluding all deaths within the first two years in sensitivity analyses."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 7,
+    "id": "N01-P03-S07",
+    "heading": "Discussion",
+    "text": "The hazard ratios were materially unchanged for the associations of total physical activity and light intensity or moderate-to-vigorous intensity physical activity with mortality, and slightly attenuated for sedentary time."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 8,
+    "id": "N01-P03-S08",
+    "heading": "Discussion",
+    "text": "However, bias from reverse causation might persist."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 9,
+    "id": "N01-P03-S09",
+    "heading": "Discussion",
+    "text": "All studies in our analysis included middle aged and older adults who were at least 40 years old; it is unclear whether the estimates of the absolute physical activity levels associated with maximal risk reduction apply to younger people."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 10,
+    "id": "N01-P03-S10",
+    "heading": "Discussion",
+    "text": "For the purposes of harmonisation, only data recorded from a single (vertical) axis were analysed; this tends to detect less time in light and moderate intensity activity and more time being sedentary compared with data recorded from three axes of newer generation devices."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 11,
+    "id": "N01-P03-S11",
+    "heading": "Discussion",
+    "text": "Intensity thresholds are influenced by participant age and activities included in any calibration study and there is currently no consensus about standard intensity thresholds."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 12,
+    "id": "N01-P03-S12",
+    "heading": "Discussion",
+    "text": "We used thresholds derived during locomotor activities (ie, walking and jogging) in young adults when defining time spent in light, moderate, and vigorous physical activity, that are higher than those derived in older women in a range of activities, including sitting and standing."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 13,
+    "id": "N01-P03-S13",
+    "heading": "Discussion",
+    "text": "This could affect the absolute time spent in vigorous physical activity and in prolonged bouts of moderate-to-vigorous physical activity."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 14,
+    "id": "N01-P03-S14",
+    "heading": "Discussion",
+    "text": "Furthermore, results were combined from studies using two different brands of accelerometers; however, when we restricted analyses to the six studies using the same accelerometer brand, similar findings were observed."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 15,
+    "id": "N01-P03-S15",
+    "heading": "Discussion",
+    "text": "Risk of bias was assessed using the Newcastle-Ottawa scale suggested as an alternative to the Risk of Bias in Non-randomised Studies of Interventions."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 3,
+    "sentence": 16,
+    "id": "N01-P03-S16",
+    "heading": "Discussion",
+    "text": "Finally, physical activity and sedentary time were only measured once, therefore changes in these behaviours might affect the observed associations."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 4,
+    "sentence": 1,
+    "id": "N01-P04-S01",
+    "heading": "Discussion",
+    "text": "Higher levels of total physical activity, which combine the frequency, duration, and intensity of activity, were associated with a substantially reduced risk of death in a dose-response fashion."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 4,
+    "sentence": 2,
+    "id": "N01-P04-S02",
+    "heading": "Discussion",
+    "text": "In spline analyses, the maximal risk reduction was observed at about 300 counts per minutes (cpm, fig 2, supplementary table 5)."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 4,
+    "sentence": 3,
+    "id": "N01-P04-S03",
+    "heading": "Discussion",
+    "text": "This value mirrors the median total physical activity for the third quarter across studies (supplementary table 3)."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 4,
+    "sentence": 4,
+    "id": "N01-P04-S04",
+    "heading": "Discussion",
+    "text": "It is also similar to the mean value observed in US men, between 10-15% higher than in US women and about 10-15% lower than in the population based samples from Norway and Sweden (supplementary table 1)."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 4,
+    "sentence": 5,
+    "id": "N01-P04-S05",
+    "heading": "Discussion",
+    "text": "The amount of total physical activity required for maximal risk reduction thus seems achievable for large segments of the population."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 4,
+    "sentence": 6,
+    "id": "N01-P04-S06",
+    "heading": "Discussion",
+    "text": "For those unable to accumulate this amount, it is encouraging to note that the largest risk reduction was observed between the second quarter and the referent (least active)."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 4,
+    "sentence": 7,
+    "id": "N01-P04-S07",
+    "heading": "Discussion",
+    "text": "The observed magnitude of risk reduction (about 60-70%) is more than twice as large as previously reported from studies assessing total physical activity by self report."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 4,
+    "sentence": 8,
+    "id": "N01-P04-S08",
+    "heading": "Discussion",
+    "text": "Our findings extend previous observations from individual studies on device assessed total physical activity and those reported for total physical activity in community dwelling elderly people, by reducing the uncertainty in the effect estimates in a much larger and more heterogeneous sample."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 1,
+    "id": "N01-P05-S01",
+    "heading": "Discussion",
+    "text": "Our results also suggest substantial risk reductions from light intensity physical activity, in a dose-response fashion."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 2,
+    "id": "N01-P05-S02",
+    "heading": "Discussion",
+    "text": "A recent meta-analysis that combined self reported and device based measures of light intensity physical activity observed a pooled risk reduction of 29% when extreme groups were compared, smaller in magnitude than the estimate reported here (about 60% when the fourth quarter was compared with the referent)."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 3,
+    "id": "N01-P05-S03",
+    "heading": "Discussion",
+    "text": "Time accumulated in moderate-to-vigorous intensity physical activity was also associated with reduced mortality risk in a dose-response manner."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 4,
+    "id": "N01-P05-S04",
+    "heading": "Discussion",
+    "text": "It should be noted, however, that the definition of intensity is based on absolute intensity (ie, as customary, light intensity=1.5-2.9 metabolic equivalents of task (METs); moderate-to-vigorous intensity ≥3 METs)."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 5,
+    "id": "N01-P05-S05",
+    "heading": "Discussion",
+    "text": "In older people, who constitute most of the participants in our meta-analysis, maximal cardiorespiratory fitness may not exceed 6 or 7 METs."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 6,
+    "id": "N01-P05-S06",
+    "heading": "Discussion",
+    "text": "Thus high light intensity physical activity as defined in the present analyses might actually represent moderate-to-vigorous intensity physical activity, relative to the fitness level of these older adults."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 7,
+    "id": "N01-P05-S07",
+    "heading": "Discussion",
+    "text": "Future calibration studies aimed at identifying intensity thresholds for light and moderate intensity physical activity from tri-axial accelerometry based on relative intensity (ie, % maximal cardiorespiratory fitness) are needed, especially for use in older populations."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 8,
+    "id": "N01-P05-S08",
+    "heading": "Discussion",
+    "text": "Owing to the low numbers of people with high levels of time spent in moderate-to-vigorous intensity physical activity, wide confidence intervals were observed at this part of the dose-response curve warranting cautious interpretation."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 9,
+    "id": "N01-P05-S09",
+    "heading": "Discussion",
+    "text": "The maximal risk reduction was seen at about 24 min/day, congruent with the minimum recommended level of physical activity for Americans and the proposed draft of the new UK physical activity guidelines of at least 150 minutes of moderate intensity physical activity each week."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 10,
+    "id": "N01-P05-S10",
+    "heading": "Discussion",
+    "text": "Similar to total physical activity and light intensity physical activity, the maximal risk reduction observed for moderate-to-vigorous physical activity (about 60%), is about twice the magnitude as previously reported in a meta-analysis, where physical activity was assessed by self report."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 11,
+    "id": "N01-P05-S11",
+    "heading": "Discussion",
+    "text": "We observed smaller magnitudes of risk reduction for bouts of moderate-to-vigorous intensity physical activity and vigorous intensity physical activity compared with the other physical activity exposure variables."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 5,
+    "sentence": 12,
+    "id": "N01-P05-S12",
+    "heading": "Discussion",
+    "text": "Most participants, however, did not record any minutes at these intensity levels, limiting the interpretation of these observations."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 6,
+    "sentence": 1,
+    "id": "N01-P06-S01",
+    "heading": "Discussion",
+    "text": "Higher sedentary time was positively associated with higher risk of death, and the risk increased at levels greater than 9.5 hours each day."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 6,
+    "sentence": 2,
+    "id": "N01-P06-S02",
+    "heading": "Discussion",
+    "text": "This estimate is higher than a proposed threshold of 6 to 8 hours each day identified in a recent meta-analysis examining the association between primarily self reported sitting time and mortality."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 6,
+    "sentence": 3,
+    "id": "N01-P06-S03",
+    "heading": "Discussion",
+    "text": "Given the strong association between total physical activity and mortality, it is plausible that findings for sedentary time reflect the “flip side” of a coin."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 7,
+    "sentence": 1,
+    "id": "N01-P07-S01",
+    "heading": "Discussion",
+    "text": "Recent national and international strategies to improve public health through physical activity in populations are supported by our results."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 7,
+    "sentence": 2,
+    "id": "N01-P07-S02",
+    "heading": "Discussion",
+    "text": "Additionally, these results reinforce the new physical activity recommendations for Americans to limit sedentary time and that moderate-to-vigorous intensity physical activity need not occur in 10 minute bouts."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 7,
+    "sentence": 3,
+    "id": "N01-P07-S03",
+    "heading": "Discussion",
+    "text": "Furthermore, the findings are important for policymakers and can inform future guideline development by also recognising the role of light intensity physical activity and hence total physical activity for reducing the risk of premature death."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 7,
+    "sentence": 4,
+    "id": "N01-P07-S04",
+    "heading": "Discussion",
+    "text": "Thus, the public health message might simply be “sit less and move more and more often.”"
+  },
+  {
+    "paper": "N01",
+    "paragraph": 8,
+    "sentence": 1,
+    "id": "N01-P08-S01",
+    "heading": "Discussion",
+    "text": "We only investigated associations with all cause mortality."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 8,
+    "sentence": 2,
+    "id": "N01-P08-S02",
+    "heading": "Discussion",
+    "text": "Thus more work is needed to determine the associations between physical activity and sedentary time with cause specific mortality and for other chronic morbidities such as type 2 diabetes, which may manifest at a younger age than the age of our cohorts."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 8,
+    "sentence": 3,
+    "id": "N01-P08-S03",
+    "heading": "Discussion",
+    "text": "Future studies using repeated measures of physical activity with device based methods such as acclerometry are also needed to examining the associations between changes in physical activity and sedentary time with clinical health outcomes."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 8,
+    "sentence": 4,
+    "id": "N01-P08-S04",
+    "heading": "Discussion",
+    "text": "Finally, data on the association between device based assessment of physical activity and mortality from low and middle income countries are currently unavailable."
+  },
+  {
+    "paper": "N01",
+    "paragraph": 9,
+    "sentence": 1,
+    "id": "N01-P09-S01",
+    "heading": "Discussion",
+    "text": "Our findings provide clear scientific evidence that higher levels of total physical activity—regardless of intensity level—and lesser amounts of sedentary time are associated with lower risk for premature mortality, with evidence of non-linear, dose-response patterns in middle aged and older people."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 1,
+    "sentence": 1,
+    "id": "N02-P01-S01",
+    "heading": "Discussion",
+    "text": "In two large prospective cohorts with up to 34 years of follow-up, we found that higher consumption of ultra-processed foods was associated with modestly higher all cause mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 1,
+    "sentence": 2,
+    "id": "N02-P01-S02",
+    "heading": "Discussion",
+    "text": "We found no associations for mortality due to cancer or cardiovascular diseases."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 1,
+    "sentence": 3,
+    "id": "N02-P01-S03",
+    "heading": "Discussion",
+    "text": "The associations varied across subgroups of ultra-processed foods, with meat/poultry/seafood based ready-to-eat products consistently showing associations with higher all cause mortality and cause specific mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 1,
+    "sentence": 4,
+    "id": "N02-P01-S04",
+    "heading": "Discussion",
+    "text": "The associations between ultra-processed food consumption and mortality were attenuated after we accounted for overall dietary quality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 2,
+    "sentence": 1,
+    "id": "N02-P02-S01",
+    "heading": "Discussion",
+    "text": "Existing evidence suggests a relation between ultra-processed food consumption and mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 2,
+    "sentence": 2,
+    "id": "N02-P02-S02",
+    "heading": "Discussion",
+    "text": "A meta-analysis of prospective cohorts reported that the highest ultra-processed food consumption was associated with higher all cause mortality compared with the lowest consumption (hazard ratio 1.21, 1.13 to 1.30)."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 2,
+    "sentence": 3,
+    "id": "N02-P02-S03",
+    "heading": "Discussion",
+    "text": "Two studies were conducted in the US, whereas the other six were conducted in Spain, France, Italy, and the UK."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 2,
+    "sentence": 4,
+    "id": "N02-P02-S04",
+    "heading": "Discussion",
+    "text": "Unlike our study, which excluded alcohol from ultra-processed foods and carefully controlled for smoking status and pack years, all the above studies included alcohol in ultra-processed foods and adjusted for smoking status (never, former, and current) only."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 2,
+    "sentence": 5,
+    "id": "N02-P02-S05",
+    "heading": "Discussion",
+    "text": "As noted in our sensitivity analysis, pack years of smoking strongly confounded the association—additionally adjusting for smoking pack years remarkably attenuated the hazard ratios toward the null."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 2,
+    "sentence": 6,
+    "id": "N02-P02-S06",
+    "heading": "Discussion",
+    "text": "That may partly explain why the associations found in our study were weaker than those in previous studies."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 2,
+    "sentence": 7,
+    "id": "N02-P02-S07",
+    "heading": "Discussion",
+    "text": "Another possible reason could be tighter control for socioeconomic status because our participants were all health professionals and had similar levels of education."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 3,
+    "sentence": 1,
+    "id": "N02-P03-S01",
+    "heading": "Discussion",
+    "text": "The evidence on mortality due to cancer is relatively sparse."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 3,
+    "sentence": 2,
+    "id": "N02-P03-S02",
+    "heading": "Discussion",
+    "text": "Consistently, the Moli-sani Study did not observe a statistically significant association but reported a positive association with other mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 3,
+    "sentence": 3,
+    "id": "N02-P03-S03",
+    "heading": "Discussion",
+    "text": "An analysis of three cohorts including the Prostate, Lung, Colorectal and Ovarian Cancer Screening Trial (PLCO), NHANES (1999-2018), and UK Biobank reported null findings for mortality due to cancer in the PLCO and NHANES (1999-2018)."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 3,
+    "sentence": 4,
+    "id": "N02-P03-S04",
+    "heading": "Discussion",
+    "text": "By contrast, the UK Biobank study found that every 10% increment in ultra-processed food consumption was associated with a 6% higher cancer mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 3,
+    "sentence": 5,
+    "id": "N02-P03-S05",
+    "heading": "Discussion",
+    "text": "Diet was assessed in the UK Biobank through multiple 24 hour recalls between 2009 and 2012, and 40% of the participants had only one 24 hour recall, thus limiting the ability to capture long term dietary intake."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 4,
+    "sentence": 1,
+    "id": "N02-P04-S01",
+    "heading": "Discussion",
+    "text": "In agreement with our study, the Prospective Urban and Rural Epidemiology study from 25 high income, middle income, and low income countries in America, Europe, Africa, and Asia observed a null association with mortality due to cardiovascular diseases but a positive association with non-cardiovascular disease mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 4,
+    "sentence": 2,
+    "id": "N02-P04-S02",
+    "heading": "Discussion",
+    "text": "Our findings on the relation between ultra-processed foods and mortality due to cardiovascular diseases are inconsistent with previous evidence from Europe but consistent with the null finding in the US NHANES III (1988-94)."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 4,
+    "sentence": 3,
+    "id": "N02-P04-S03",
+    "heading": "Discussion",
+    "text": "Moreover, a much stronger positive association was reported in the UK Biobank (1.28, 1.13 to 1.45) compared with the two US cohorts (1.12, 1.05 to 1.09; 1.11, 0.92 to 1.34)."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 4,
+    "sentence": 4,
+    "id": "N02-P04-S04",
+    "heading": "Discussion",
+    "text": "In addition to the methodological differences mentioned above, different study populations, ultra-processed food compositions, and eating patterns may also contribute."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 4,
+    "sentence": 5,
+    "id": "N02-P04-S05",
+    "heading": "Discussion",
+    "text": "Ultra-processed food intake in our two US cohorts is mainly contributed by “sauces, spreads, and condiments” and “sweet snacks and desserts,” which together accounted for nearly 50% (supplementary figure B), but neither of the two subgroups was associated with increased mortality due to cardiovascular diseases."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 4,
+    "sentence": 6,
+    "id": "N02-P04-S06",
+    "heading": "Discussion",
+    "text": "On the other hand, compelling evidence shows that nuts and (dark) chocolate, common constituents of “sweet snacks and desserts,” are inversely associated with cardiovascular diseases."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 4,
+    "sentence": 7,
+    "id": "N02-P04-S07",
+    "heading": "Discussion",
+    "text": "We observed that dark chocolate in the subgroup “packaged sweet snacks and desserts” was associated with decreased mortality (supplementary table D)."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 4,
+    "sentence": 8,
+    "id": "N02-P04-S08",
+    "heading": "Discussion",
+    "text": "Therefore, the diverse array of constituents contained in ultra-processed foods with heterogeneous health effects may have contributed to the discrepant findings."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 4,
+    "sentence": 9,
+    "id": "N02-P04-S09",
+    "heading": "Discussion",
+    "text": "Our findings suggest that meat/poultry/seafood based ready-to-eat products and sugar sweetened and artificially sweetened beverages are major factors contributing to the harmful influence of ultra-processed foods on mortality, which is in accordance with previous studies."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 5,
+    "sentence": 1,
+    "id": "N02-P05-S01",
+    "heading": "Discussion",
+    "text": "Few studies have investigated the relation with cause specific mortality other than that due to cancer and cardiovascular diseases."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 5,
+    "sentence": 2,
+    "id": "N02-P05-S02",
+    "heading": "Discussion",
+    "text": "We found that ultra-processed food intake was associated with higher neurodegenerative mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 5,
+    "sentence": 3,
+    "id": "N02-P05-S03",
+    "heading": "Discussion",
+    "text": "Increasing evidence suggests that ultra-processed food is linked to higher risk of central nervous system demyelination (a precursor of multiple sclerosis), lower cognitive function, and dementia."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 5,
+    "sentence": 4,
+    "id": "N02-P05-S04",
+    "heading": "Discussion",
+    "text": "Studies have shown that a diet rich in ultra-processed foods may drive neuroinflammation and impairment of the blood-brain barrier, leading to neurodegeneration."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 5,
+    "sentence": 5,
+    "id": "N02-P05-S05",
+    "heading": "Discussion",
+    "text": "Of note, among ultra-processed food subgroups, diary based desserts showed the strongest association with neurodegenerative mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 5,
+    "sentence": 6,
+    "id": "N02-P05-S06",
+    "heading": "Discussion",
+    "text": "Earlier finding from the HPFS and NHS cohorts showed that intake of sherbet/frozen yogurt was associated with an increased risk of Parkinson’s disease."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 5,
+    "sentence": 7,
+    "id": "N02-P05-S07",
+    "heading": "Discussion",
+    "text": "Furthermore, we found a positive association between ultra-processed food intake measured by percentage of energy and respiratory mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 5,
+    "sentence": 8,
+    "id": "N02-P05-S08",
+    "heading": "Discussion",
+    "text": "Emerging evidence suggests that higher ultra-processed food intake is associated with increased risk of respiratory multimorbidity."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 5,
+    "sentence": 9,
+    "id": "N02-P05-S09",
+    "heading": "Discussion",
+    "text": "The increased respiratory mortality associated with processed red meat may be partly due to heme iron and nitrate/nitrite."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 6,
+    "sentence": 1,
+    "id": "N02-P06-S01",
+    "heading": "Discussion",
+    "text": "An important question not answered by previous studies is whether and how food processing level and nutritional quality jointly influence health."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 6,
+    "sentence": 2,
+    "id": "N02-P06-S02",
+    "heading": "Discussion",
+    "text": "We observed that in the joint analysis, the AHEI score but not ultra-processed food intake showed a consistent association with mortality and that further adjustment for the AHEI score attenuated the association of ultra-processed food intake with mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 6,
+    "sentence": 3,
+    "id": "N02-P06-S03",
+    "heading": "Discussion",
+    "text": "Although including AHEI in the multivariable model for ultra-processed food may represent an overadjustment because common foods are included in both the AHEI and ultra-processed food, our data together suggest that dietary quality has a predominant influence on long term health, whereas the additional effect of food processing is likely to be limited."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 6,
+    "sentence": 4,
+    "id": "N02-P06-S04",
+    "heading": "Discussion",
+    "text": "Furthermore, foods may have dual attributes according to their processing level and nutritional quality, and these two features may have quantitatively and even qualitatively different effects on health."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 6,
+    "sentence": 5,
+    "id": "N02-P06-S05",
+    "heading": "Discussion",
+    "text": "Another added value of our study is the exclusion of wholegrain products that fall in the ultra-processed foods from the primary exposure, based on the well established health benefits associated with whole grains."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 6,
+    "sentence": 6,
+    "id": "N02-P06-S06",
+    "heading": "Discussion",
+    "text": "By taking this approach, we aim to rectify the potential misperception that all ultra-processed food products should be universally restricted and to avoid oversimplification when formulating dietary recommendations."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 7,
+    "sentence": 1,
+    "id": "N02-P07-S01",
+    "heading": "Discussion",
+    "text": "Besides neglecting overall nutritional quality, the ultra-processed food classification system has other limitations."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 7,
+    "sentence": 2,
+    "id": "N02-P07-S02",
+    "heading": "Discussion",
+    "text": "The Nova classification is based on broad categories that do not capture the full complexity of food processing, leading to potential misclassification."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 7,
+    "sentence": 3,
+    "id": "N02-P07-S03",
+    "heading": "Discussion",
+    "text": "Further work is needed to improve the assessment and categorization of ultra-processed foods."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 7,
+    "sentence": 4,
+    "id": "N02-P07-S04",
+    "heading": "Discussion",
+    "text": "On the other hand, dietary guidelines should provide clear and sound food selections that are available, actionable, attainable, and affordable for the largest proportion of the population."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 7,
+    "sentence": 5,
+    "id": "N02-P07-S05",
+    "heading": "Discussion",
+    "text": "Thus, careful deliberation is necessary when considering incorporation of ultra-processed foods into dietary guidelines."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 7,
+    "sentence": 6,
+    "id": "N02-P07-S06",
+    "heading": "Discussion",
+    "text": "Again, on the basis of our data, limiting total ultra-processed food consumption may not have a substantial influence on premature death, whereas reducing consumption of certain ultra-processed food subgroups (for example, processed meat) can be beneficial."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 8,
+    "sentence": 1,
+    "id": "N02-P08-S01",
+    "heading": "Discussion",
+    "text": "We note that mortality is a more complicated endpoint than disease incidence and is also influenced by several factors including early detection, treatment, and individuals’ overall health status."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 8,
+    "sentence": 2,
+    "id": "N02-P08-S02",
+    "heading": "Discussion",
+    "text": "The findings for mortality should not be regarded as synonymous with those pertaining to disease incidence but rather considered as more comprehensive assessment of the health impact of risk factors."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 9,
+    "sentence": 1,
+    "id": "N02-P09-S01",
+    "heading": "Discussion",
+    "text": "The strengths of the study include the prospective study design, large sample size, long follow-up, and detailed, validated, and repeated measurements."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 9,
+    "sentence": 2,
+    "id": "N02-P09-S02",
+    "heading": "Discussion",
+    "text": "In addition, we rigorously controlled for confounding, did thorough sensitivity analyses, explored major specific causes of mortality, and examined individual ultra-processed food subgroups."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 9,
+    "sentence": 3,
+    "id": "N02-P09-S03",
+    "heading": "Discussion",
+    "text": "Several limitations should also be noted."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 9,
+    "sentence": 4,
+    "id": "N02-P09-S04",
+    "heading": "Discussion",
+    "text": "Firstly, we cannot rule out unmeasured and residual confounding due to the nature of the observational study."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 9,
+    "sentence": 5,
+    "id": "N02-P09-S05",
+    "heading": "Discussion",
+    "text": "Secondly, our participants are health professionals and predominantly non-Hispanic white, limiting the generalizability of our findings."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 9,
+    "sentence": 6,
+    "id": "N02-P09-S06",
+    "heading": "Discussion",
+    "text": "Thirdly, as the food frequency questionnaires collected intake of only a limited number of pre-defined items representing the primary source of energy and nutrients in the US population and were not designed to classify foods by processing level, they may not capture the full spectrum of ultra-processed foods."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 9,
+    "sentence": 7,
+    "id": "N02-P09-S07",
+    "heading": "Discussion",
+    "text": "Although the food frequency questionnaires used in our cohorts have been validated for foods and nutrients, they were not specifically validated for ultra-processed foods."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 9,
+    "sentence": 8,
+    "id": "N02-P09-S08",
+    "heading": "Discussion",
+    "text": "Moreover, we classified ultra-processed foods by using the same algorithm throughout follow-up that did not account for changes in the grade of food processing over time."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 9,
+    "sentence": 9,
+    "id": "N02-P09-S09",
+    "heading": "Discussion",
+    "text": "These factors may have introduced non-differential misclassification, likely biasing our results toward the null."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 10,
+    "sentence": 1,
+    "id": "N02-P10-S01",
+    "heading": "Discussion",
+    "text": "Higher ultra-processed food intake was associated with slightly increased all cause mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 10,
+    "sentence": 2,
+    "id": "N02-P10-S02",
+    "heading": "Discussion",
+    "text": "The mortality associations for ultra-processed food consumption were more modest than those for dietary quality and varied across ultra-processed food subgroups, with meat/poultry/seafood based ready-to-eat products generally showing the strongest and most consistent associations with mortality."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 10,
+    "sentence": 3,
+    "id": "N02-P10-S03",
+    "heading": "Discussion",
+    "text": "The findings provide support for limiting consumption of certain types of ultra-processed food for long term health."
+  },
+  {
+    "paper": "N02",
+    "paragraph": 10,
+    "sentence": 4,
+    "id": "N02-P10-S04",
+    "heading": "Discussion",
+    "text": "Future studies are warranted to improve the classification of ultra-processed foods and confirm our findings in other populations."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 1,
+    "sentence": 1,
+    "id": "N03-P01-S01",
+    "heading": "Discussion",
+    "text": "Using data from two large cohort studies, we observed that adherence to a low risk lifestyle was associated with a longer life expectancy at age 50 free of major chronic diseases of approximately 7.6 years in men and 10 years in women compared with participants with no low risk lifestyle factors."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 2,
+    "sentence": 1,
+    "id": "N03-P02-S01",
+    "heading": "Discussion",
+    "text": "Our results are consistent with previous studies that estimated the individual or clustering effect of lifestyle related risk factors on life expectancy with and without chronic diseases."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 2,
+    "sentence": 2,
+    "id": "N03-P02-S02",
+    "heading": "Discussion",
+    "text": "Ferrucci et al found that participants aged 65 years who had never smoked and had higher levels of physical activity had life expectancies without disability (self reported need for help or inability to perform basic activities of daily living) of 6.7 years (men) and 7.3 years (women) higher than their peers who had ever smoked and had low levels of physical activity."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 2,
+    "sentence": 3,
+    "id": "N03-P02-S03",
+    "heading": "Discussion",
+    "text": "The Framingham Heart Study showed that achieving high levels of physical activity, having a normal weight, and never smoking was associated with lower risk of cardiovascular disease, higher total life expectancy, and greater number of years lived free of cardiovascular disease."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 2,
+    "sentence": 4,
+    "id": "N03-P02-S04",
+    "heading": "Discussion",
+    "text": "A large study in Europe found that people with no behavior related risk factors lived six years longer without chronic diseases (cardiovascular disease, cancer, respiratory disease, and diabetes) than did participants with at least two behavior related risk factors (including smoking, physical inactivity, and obesity)."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 2,
+    "sentence": 5,
+    "id": "N03-P02-S05",
+    "heading": "Discussion",
+    "text": "The CHANCES study found that a healthy lifestyle was associated with a 7.4-15.7 years longer life expectancy at age 50 years and that most of these extra life years were free of chronic diseases."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 2,
+    "sentence": 6,
+    "id": "N03-P02-S06",
+    "heading": "Discussion",
+    "text": "Our study extends previous findings by comprehensively assessing five lifestyle risk factors and three major chronic diseases in combination and by providing broader estimates of longevity and the number of years lived with and without disease in relation to lifestyle factors individually and in combination."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 3,
+    "sentence": 1,
+    "id": "N03-P03-S01",
+    "heading": "Discussion",
+    "text": "We observed a relatively longer gain in life expectancy free of diabetes associated with a low risk lifestyle than the gained life expectancy free of cancer or cardiovascular disease; this was consistent with the result of different preventable attribution fractions for lifestyle related to specific diseases: in our cohorts, 90% of diabetes, 80% of coronary heart disease, 70% of cardiovascular mortality, and 50% of cancer mortality were attributable to not following a low risk lifestyle."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 3,
+    "sentence": 2,
+    "id": "N03-P03-S02",
+    "heading": "Discussion",
+    "text": "We did not observe a significant difference in life expectancy with cancer, cardiovascular disease, and type 2 diabetes across the number of low risk lifestyle factors."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 3,
+    "sentence": 3,
+    "id": "N03-P03-S03",
+    "heading": "Discussion",
+    "text": "However, this does not necessarily imply that a healthy lifestyle has no effect on patients with these conditions."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 3,
+    "sentence": 4,
+    "id": "N03-P03-S04",
+    "heading": "Discussion",
+    "text": "At the population level, the overall life expectancy living with diseases was determined by both the proportion of the population having the diseases and how long they survived after diagnosis."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 3,
+    "sentence": 5,
+    "id": "N03-P03-S05",
+    "heading": "Discussion",
+    "text": "Compared with those with zero low risk lifestyle factors, men and women with four or five low risk factors had a lower rate of incident cancer, cardiovascular disease, and type 2 diabetes, and they also lived longer after diagnosis of these diseases."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 3,
+    "sentence": 6,
+    "id": "N03-P03-S06",
+    "heading": "Discussion",
+    "text": "This resulted in a paradoxical non-differential life expectancy in the presence of cancer, cardiovascular disease, and type 2 diabetes across groups with different numbers of healthy lifestyle factors."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 3,
+    "sentence": 7,
+    "id": "N03-P03-S07",
+    "heading": "Discussion",
+    "text": "A healthy lifestyle not only decreased the risk of incident cancer, cardiovascular disease, and type 2 diabetes but also improved the survival after diagnosis of those diseases."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 3,
+    "sentence": 8,
+    "id": "N03-P03-S08",
+    "heading": "Discussion",
+    "text": "Thus, the proportion of years of life living with chronic diseases was higher among participants who adhered to an unhealthy lifestyle."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 4,
+    "sentence": 1,
+    "id": "N03-P04-S01",
+    "heading": "Discussion",
+    "text": "Compared with men, women gained a longer life expectancy free of major chronic diseases through adherence to a low risk lifestyle, resulting from the relatively stronger association between low risk lifestyle and incident cancer, cardiovascular disease, diabetes, and mortality among women than men, as observed in our study."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 4,
+    "sentence": 2,
+    "id": "N03-P04-S02",
+    "heading": "Discussion",
+    "text": "Sex differences in the association between lifestyles and healthy life expectancy were also observed in previous studies, but the reasons for this disparity are not clear."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 4,
+    "sentence": 3,
+    "id": "N03-P04-S03",
+    "heading": "Discussion",
+    "text": "We observed a relatively small difference in life expectancies across different levels of alcohol consumption compared with other individual lifestyle factors."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 4,
+    "sentence": 4,
+    "id": "N03-P04-S04",
+    "heading": "Discussion",
+    "text": "The cardiovascular benefits of moderate alcohol consumption have been consistently observed in large cohort studies, but alcohol consumption and risk of cancer showed a dose-response relation."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 4,
+    "sentence": 5,
+    "id": "N03-P04-S05",
+    "heading": "Discussion",
+    "text": "Thus, current guidelines do not encourage a non-alcohol drinker to start drinking just for the benefit of preventing cardiovascular disease."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 1,
+    "id": "N03-P05-S01",
+    "heading": "Discussion",
+    "text": "Major strengths of this study are the long term follow-up of two large cohorts with low rates of loss to follow-up and the detailed and repeated measurements of lifestyle factors that enabled us to take the dynamic changes in lifestyle factors over time into account."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 2,
+    "id": "N03-P05-S02",
+    "heading": "Discussion",
+    "text": "Nevertheless, we also acknowledge several limitations."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 3,
+    "id": "N03-P05-S03",
+    "heading": "Discussion",
+    "text": "Firstly, this study was limited by its reliance on self reported lifestyle factors; measurement errors are inevitable."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 4,
+    "id": "N03-P05-S04",
+    "heading": "Discussion",
+    "text": "The use of prospectively collected, cumulatively averaged values based on repeated assessments would reduce the effect of random measurement errors."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 5,
+    "id": "N03-P05-S05",
+    "heading": "Discussion",
+    "text": "Secondly, residual and unmeasured confounding might also exist even though we controlled for a wide range of potential confounders."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 6,
+    "id": "N03-P05-S06",
+    "heading": "Discussion",
+    "text": "However, only a very strong unmeasured risk factor for mortality together with a very large prevalence imbalance among exposure groups could explain such strong findings."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 7,
+    "id": "N03-P05-S07",
+    "heading": "Discussion",
+    "text": "Thirdly, we included only cancer, cardiovascular disease, and type 2 diabetes because these are highly prevalent diseases, accounting for most chronic diseases, and their associations with lifestyle factors are well documented."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 8,
+    "id": "N03-P05-S08",
+    "heading": "Discussion",
+    "text": "The calculated “disease-free” life expectancy would change if we included other diseases, such as respiratory disease or kidney disease; however, the relative differences in disease-free life expectancy across different lifestyle groups should not materially change."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 9,
+    "id": "N03-P05-S09",
+    "heading": "Discussion",
+    "text": "Similarly, we did not take into account the severity and clinical complications of the diseases, which could have affected life expectancies."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 10,
+    "id": "N03-P05-S10",
+    "heading": "Discussion",
+    "text": "Fourthly, people may have changed their lifestyle after diagnosis of diseases."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 11,
+    "id": "N03-P05-S11",
+    "heading": "Discussion",
+    "text": "Nevertheless, our sensitivity analysis taking into account this potential bias showed similar results."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 12,
+    "id": "N03-P05-S12",
+    "heading": "Discussion",
+    "text": "Lastly, because our study populations consist of mostly white health professionals who have adopted relatively healthy behaviors, the results may not be generalizable to other populations."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 13,
+    "id": "N03-P05-S13",
+    "heading": "Discussion",
+    "text": "Therefore, further studies are warranted to replicate our findings in other ethnic and racial groups and people with other professional backgrounds."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 5,
+    "sentence": 14,
+    "id": "N03-P05-S14",
+    "heading": "Discussion",
+    "text": "However, the biologic effects of unhealthy behaviors are likely to apply to other populations, and the relative homogeneity of the study populations in educational attainment, health awareness, and socioeconomic status reduces residual confounding and enhances the internal validity."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 6,
+    "sentence": 1,
+    "id": "N03-P06-S01",
+    "heading": "Discussion",
+    "text": "We observed that a healthier lifestyle was associated with a lower risk of cancer, cardiovascular disease, and diabetes as well as mortality, with an increased total life expectancy and number of years lived free of these diseases."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 6,
+    "sentence": 2,
+    "id": "N03-P06-S02",
+    "heading": "Discussion",
+    "text": "Our findings suggest that promotion of a healthy lifestyle would help to reduce the healthcare burdens through lowering the risk of developing multiple chronic diseases, including cancer, cardiovascular disease, and diabetes, and extending disease-free life expectancy."
+  },
+  {
+    "paper": "N03",
+    "paragraph": 6,
+    "sentence": 3,
+    "id": "N03-P06-S03",
+    "heading": "Discussion",
+    "text": "Public policies for improving food and the physical environment conducive to adopting a healthy diet and lifestyle, as well as relevant policies and regulations (for example, smoking ban in public places or trans-fat restrictions), are critical to improving life expectancy, especially life expectancy free of major chronic diseases."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 1,
+    "sentence": 1,
+    "id": "N04-P01-S01",
+    "heading": "Discussion",
+    "text": "This longitudinal study of nearly 8000 participants with repeat data on sleep duration and a long follow-up for dementia suggests short sleep duration in midlife to be associated with the increased risk of incident dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 1,
+    "sentence": 2,
+    "id": "N04-P01-S02",
+    "heading": "Discussion",
+    "text": "This finding was confirmed in analysis using sleep duration measured by an accelerometer."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 1,
+    "sentence": 3,
+    "id": "N04-P01-S03",
+    "heading": "Discussion",
+    "text": "Measurement of sleep duration at age 50, 60, and 70 years along with change in sleep duration over this period provides consistent results for increased risk of dementia in those with short sleep."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 1,
+    "sentence": 4,
+    "id": "N04-P01-S04",
+    "heading": "Discussion",
+    "text": "A further key finding is that the association between short sleep duration and dementia is not attributable to mental health."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 2,
+    "sentence": 1,
+    "id": "N04-P02-S01",
+    "heading": "Discussion",
+    "text": "Two recent meta-analyses suggest a U-shaped association between sleep duration and incident dementia, with lower risk in people sleeping 7 h per night, and greater risk among those with shorter sleep and also among those with longer sleep duration,."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 2,
+    "sentence": 2,
+    "id": "N04-P02-S02",
+    "heading": "Discussion",
+    "text": "The studies included in these meta-analyses had a follow-up duration ranging from 3 to 23 years, but most studies had a follow-up of <10 years,."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 2,
+    "sentence": 3,
+    "id": "N04-P02-S03",
+    "heading": "Discussion",
+    "text": "Dementia at older ages is characterized by a long preclinical period,, and studies with a follow-up of 10 years are likely to be subject to reverse causation bias, whereby the putative risk factor is affected by the disease process in dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 3,
+    "sentence": 1,
+    "id": "N04-P03-S01",
+    "heading": "Discussion",
+    "text": "Some studies– are noteworthy because of their long follow-up."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 3,
+    "sentence": 2,
+    "id": "N04-P03-S02",
+    "heading": "Discussion",
+    "text": "In the Kuopio Ischaemic Heart Disease study on 2386 men aged 42–62 years at assessment of sleep duration, there was no association between sleep duration (categorized as ≤6.5, 7–8, and ≥8.5 h) and incidence of dementia over a 22-year mean follow-up."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 3,
+    "sentence": 3,
+    "id": "N04-P03-S03",
+    "heading": "Discussion",
+    "text": "On the other hand, a U-shaped association between sleep duration and dementia was observed in three studies, where the mean age at sleep duration assessment varied between 50 and 73 years, and follow-up between 15 and 23 years,,."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 3,
+    "sentence": 4,
+    "id": "N04-P03-S04",
+    "heading": "Discussion",
+    "text": "In the Framingham Heart study, long (N = 96) but not short (N = 209) sleep duration at mean age 72 years was associated with dementia over a 10-year follow-up."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 3,
+    "sentence": 5,
+    "id": "N04-P03-S05",
+    "heading": "Discussion",
+    "text": "In a large-scale Swedish cohort of 28,775 individuals aged 65 years and older, the association between long sleep duration and dementia over a 13-year follow-up was completely attenuated after cases occurring in the first 5 years of follow-up were excluded from the analysis, highlighting the role of reverse causation bias."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 3,
+    "sentence": 6,
+    "id": "N04-P03-S06",
+    "heading": "Discussion",
+    "text": "All these studies use a wide age range at baseline for assessment of sleep duration and it is likely that the older participants, those most likely to be diagnosed with dementia over the follow-up, are already subject to preclinical changes that characterize dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 3,
+    "sentence": 7,
+    "id": "N04-P03-S07",
+    "heading": "Discussion",
+    "text": "This long preclinical period of dementia makes it less amenable to research using gold-standard approaches, such as randomized controlled trials."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 3,
+    "sentence": 8,
+    "id": "N04-P03-S08",
+    "heading": "Discussion",
+    "text": "Observation studies are not ideally suited for causal inference, but careful analysis that considers time between exposure and outcome can be helpful in determining changes over time in the nature of the association between the exposure of interest and dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 4,
+    "sentence": 1,
+    "id": "N04-P04-S01",
+    "heading": "Discussion",
+    "text": "In the present study, we used an innovative approach consisting of extracting data on sleep duration at age 50, 60, and 70 in order to remove the uncertainty in estimations caused by inclusion of a wide age range at the start of the follow-up."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 4,
+    "sentence": 2,
+    "id": "N04-P04-S02",
+    "heading": "Discussion",
+    "text": "The pattern of associations in relation to short sleep duration and dementia was similar at age 50, 60, and 70, even though sleep duration at age 70 was not associated with dementia after adjustment for health-related factors."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 4,
+    "sentence": 3,
+    "id": "N04-P04-S03",
+    "heading": "Discussion",
+    "text": "Analysis of trajectories of sleep duration using data from sleep duration at age 50, 60, and 70 showed persistent short sleep duration to be associated with an increased risk of dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 4,
+    "sentence": 4,
+    "id": "N04-P04-S04",
+    "heading": "Discussion",
+    "text": "Depression and mood disorders in general are related to changes in sleep and thought to play an important part in the association of sleep duration with dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 4,
+    "sentence": 5,
+    "id": "N04-P04-S05",
+    "heading": "Discussion",
+    "text": "In the present study, adjustment for depressive symptoms and central nervous system (CNS) drugs, as well as analysis undertaken among those without a history of mental disorders did not show mental health to explain the association."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 4,
+    "sentence": 6,
+    "id": "N04-P04-S06",
+    "heading": "Discussion",
+    "text": "Our results are consistent with a recent Mendelian randomization study, where sleep-related phenotypes were found not to be related to mental disorder."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 4,
+    "sentence": 7,
+    "id": "N04-P04-S07",
+    "heading": "Discussion",
+    "text": "Results in our study were robust to adjustments for a wide range of covariates, including cardiovascular disease, suggesting a consistent association between short sleep duration in midlife and incident dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 5,
+    "sentence": 1,
+    "id": "N04-P05-S01",
+    "heading": "Discussion",
+    "text": "There is evidence of a bidirectional association between sleep dysfunction and pathophysiological changes in dementia,, highlighting the need for a longer time frame in studies."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 5,
+    "sentence": 2,
+    "id": "N04-P05-S02",
+    "heading": "Discussion",
+    "text": "The results for short sleep duration seen in our study is likely to involve several processes, including neuroinflammation, atherosclerosis, alpha-synucleinopathies (dementia with Lewy bodies and Parkinson disease dementia), and impaired amyloid-β clearance, possibly due to impaired glymphatic function."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 5,
+    "sentence": 3,
+    "id": "N04-P05-S03",
+    "heading": "Discussion",
+    "text": "Experimental studies support a detrimental effect of sleep deprivation on cognitive performance and β-amyloid (Aβ) clearance–."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 5,
+    "sentence": 4,
+    "id": "N04-P05-S04",
+    "heading": "Discussion",
+    "text": "Amyloid plaque build-up contributes to poor sleep in older adults through its direct impact on sleep–wake regulator brain regions,."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 5,
+    "sentence": 5,
+    "id": "N04-P05-S05",
+    "heading": "Discussion",
+    "text": "There is also some evidence of an association of Aβ accumulation with disruption of the circadian rhythm and sleep pattern in cognitively normal adults."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 5,
+    "sentence": 6,
+    "id": "N04-P05-S06",
+    "heading": "Discussion",
+    "text": "Much of the research on mechanisms focusses on sleep disturbance rather than sleep duration, particularly in relation to the years leading up to dementia diagnosis."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 5,
+    "sentence": 7,
+    "id": "N04-P05-S07",
+    "heading": "Discussion",
+    "text": "The mechanisms linking short sleep duration to dementia may be similar,, but a better understanding of how sleep features (duration, disturbance, sleep apnoea, and sleep–wake regulation) over the adult lifecourse shape risk of dementia at older ages is required to identify windows of opportunity for therapeutic interventions to reduce the risk or delay the progression of dementia and its subtypes."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 6,
+    "sentence": 1,
+    "id": "N04-P06-S01",
+    "heading": "Discussion",
+    "text": "In contrast to some previous studies,,,, we did not find strong evidence to support the hypothesis that long sleep duration is associated with dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 6,
+    "sentence": 2,
+    "id": "N04-P06-S02",
+    "heading": "Discussion",
+    "text": "As in most previous studies,–, the number of long sleepers in our study was small and did not allow a robust estimation of the association with long sleep duration."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 6,
+    "sentence": 3,
+    "id": "N04-P06-S03",
+    "heading": "Discussion",
+    "text": "Two large-scale studies based on individuals with a mean age of 72 years, followed for 12 and 14 years reported sleep duration >9 h to be associated with the increased risk of dementia,."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 6,
+    "sentence": 4,
+    "id": "N04-P06-S04",
+    "heading": "Discussion",
+    "text": "Given the age of these individuals at the start of follow-up, more data on long sleepers in midlife and old age are needed to draw conclusions on the importance of long sleep duration for dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 7,
+    "sentence": 1,
+    "id": "N04-P07-S01",
+    "heading": "Discussion",
+    "text": "Strengths of the present study include repeat measures of sleep duration and a long follow-up for dementia allowing the examination of age at assessment of sleep duration, and change therein to provide insight into the nature of the association between sleep duration and dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 7,
+    "sentence": 2,
+    "id": "N04-P07-S02",
+    "heading": "Discussion",
+    "text": "Use of an objective measure of sleep duration confirmed the main findings that were based on self-reported sleep duration."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 7,
+    "sentence": 3,
+    "id": "N04-P07-S03",
+    "heading": "Discussion",
+    "text": "We also undertook sensitivity analysis using inverse-probability weighting to take missing data into account, and results from these analyses were in accordance with the main findings."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 8,
+    "sentence": 1,
+    "id": "N04-P08-S01",
+    "heading": "Discussion",
+    "text": "Assessment of dementia cases via electronic health records is not ideal but has some advantages."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 8,
+    "sentence": 2,
+    "id": "N04-P08-S02",
+    "heading": "Discussion",
+    "text": "It allows ascertainment of dementia status in all participants and not only those who agree to continue to participate in multiple waves of data collection over time."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 8,
+    "sentence": 3,
+    "id": "N04-P08-S03",
+    "heading": "Discussion",
+    "text": "However, this method may misclassify some dementia cases, particularly milder cases of dementia, although the misclassification is likely to be independent from measures of sleep duration."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 8,
+    "sentence": 4,
+    "id": "N04-P08-S04",
+    "heading": "Discussion",
+    "text": "Data on dementia type were incomplete in the records and our use of a proxy measure of Alzheimer’s disease dementia may not be precise despite the proportion of cases being in accordance with that in the general population."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 8,
+    "sentence": 5,
+    "id": "N04-P08-S05",
+    "heading": "Discussion",
+    "text": "The observational nature of the study cannot preclude residual confounding despite our adjustment for a large set of covariates."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 8,
+    "sentence": 6,
+    "id": "N04-P08-S06",
+    "heading": "Discussion",
+    "text": "A further limitation is that Whitehall II study participants were all in employment at recruitment and are healthier than the general population, both in terms of risk factor profiles and incidence of disease."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 8,
+    "sentence": 7,
+    "id": "N04-P08-S07",
+    "heading": "Discussion",
+    "text": "However, the association between risk factors and disease of interest is not necessarily affected."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 8,
+    "sentence": 8,
+    "id": "N04-P08-S08",
+    "heading": "Discussion",
+    "text": "A previous study showed that the association between cardiovascular risk factors and risk of CVD in the Whitehall II study was similar to that in general population studies."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 9,
+    "sentence": 1,
+    "id": "N04-P09-S01",
+    "heading": "Discussion",
+    "text": "There is a widely acknowledged association between sleep and cognitive function, primarily due to the role of sleep in learning and memory, synaptic plasticity, and waste clearance from the brain,,."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 9,
+    "sentence": 2,
+    "id": "N04-P09-S02",
+    "heading": "Discussion",
+    "text": "Whether sleep parameters also affect late-life dementia remains the subject of debate."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 9,
+    "sentence": 3,
+    "id": "N04-P09-S03",
+    "heading": "Discussion",
+    "text": "While incipient dementia is known to affect sleep–wake cycles,,, the extent to which sleep duration over the adult lifecourse is associated with late-onset dementia is unclear because most studies have not explicitly considered age at assessment of sleep duration or the length of follow-up."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 9,
+    "sentence": 4,
+    "id": "N04-P09-S04",
+    "heading": "Discussion",
+    "text": "Our approach pays attention to both these aspects along with inclusion of a wide array of covariates to show that short sleep duration in midlife is associated with an increased risk of dementia."
+  },
+  {
+    "paper": "N04",
+    "paragraph": 9,
+    "sentence": 5,
+    "id": "N04-P09-S05",
+    "heading": "Discussion",
+    "text": "Public health messages to encourage good sleep hygiene may be particularly important for people at a higher risk of dementia."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 1,
+    "sentence": 1,
+    "id": "N05-P01-S01",
+    "heading": "Discussion",
+    "text": "We conducted a GWAS of lifetime smoking exposure which provides a novel genetic instrument that can be used in two-sample MR of summary data without the need to stratify on smoking status."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 1,
+    "sentence": 2,
+    "id": "N05-P01-S02",
+    "heading": "Discussion",
+    "text": "We used this novel genetic instrument along with a new instrument of smoking initiation to explore possible causal pathways between smoking, schizophrenia and depression."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 1,
+    "sentence": 3,
+    "id": "N05-P01-S03",
+    "heading": "Discussion",
+    "text": "The two-sample MR results provide strong evidence that smoking is a risk factor for both schizophrenia and depression."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 1,
+    "sentence": 4,
+    "id": "N05-P01-S04",
+    "heading": "Discussion",
+    "text": "This supports prospective observational evidence controlling for genetic confounding (Kendler et al.,, ), as well as meta-analyses of observational studies (Gurillo et al.,; Taylor, McNeill et al., ) (although it should be noted that these meta-analyses include estimates not adjusted for known confounders e.g. cannabis use)."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 1,
+    "sentence": 5,
+    "id": "N05-P01-S05",
+    "heading": "Discussion",
+    "text": "Effect sizes were similar to a more recent meta-analysis that did adjust for multiple confounders and found a two-fold increased risk of schizophrenia in smokers compared with non-smokers (Scott et al., )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 1,
+    "sentence": 6,
+    "id": "N05-P01-S06",
+    "heading": "Discussion",
+    "text": "Some studies which adjust for potential confounders find the effect of smoking attenuates to the null (Jones et al., ) or even becomes protective (Zammit et al., ), demonstrating that there are likely to be substantial confounding effects in observational studies."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 1,
+    "sentence": 7,
+    "id": "N05-P01-S07",
+    "heading": "Discussion",
+    "text": "Previous MR studies have not found clear evidence to support smoking as a risk factor for either schizophrenia or depression (Bjørngaard et al.,; Gage et al.,; Taylor, Fluharty et al.,; Wium-Andersen et al., ), but our approach offers greater power, captures multiple aspects of smoking behaviour and enables two-sample MR analysis using summary data in unstratified samples."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 1,
+    "sentence": 8,
+    "id": "N05-P01-S08",
+    "heading": "Discussion",
+    "text": "However, it is not possible to precisely estimate from our results what proportion of the observational association between smoking, schizophrenia and depression is causal, or the population attributional fraction of these disorders due to smoking."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 2,
+    "sentence": 1,
+    "id": "N05-P02-S01",
+    "heading": "Discussion",
+    "text": "In support of the self-medication hypothesis (Khantzian, ), we found evidence to suggest that genetic liability for schizophrenia and depression increases lifetime smoking."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 2,
+    "sentence": 2,
+    "id": "N05-P02-S02",
+    "heading": "Discussion",
+    "text": "This supports previous observational evidence (Desai et al.,; Lerman et al.,; Levin et al., ) and might explain why smoking rates remain so high amongst individuals with schizophrenia and depression compared with the general population (Cook et al., )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 2,
+    "sentence": 3,
+    "id": "N05-P02-S03",
+    "heading": "Discussion",
+    "text": "However, evidence was stronger for self-medication effects in depression than schizophrenia and when using smoking initiation as the outcome rather than lifetime smoking, effects attenuated to the null."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 2,
+    "sentence": 4,
+    "id": "N05-P02-S04",
+    "heading": "Discussion",
+    "text": "Therefore, maybe any self-medication effects of schizophrenia are only on heaviness and duration of smoking (captured by the lifetime smoking index) rather than initiation."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 2,
+    "sentence": 5,
+    "id": "N05-P02-S05",
+    "heading": "Discussion",
+    "text": "However, it is important to note that the effects might be weaker because MR methods typically capture the long-term effects of exposures (Labrecque & Swanson, ) with self-medication potentially being more acute."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 3,
+    "sentence": 1,
+    "id": "N05-P03-S01",
+    "heading": "Discussion",
+    "text": "Alternatively the effects of schizophrenia and depression on lifetime smoking might be explained by the misattribution hypothesis."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 3,
+    "sentence": 2,
+    "id": "N05-P03-S02",
+    "heading": "Discussion",
+    "text": "This proposes that smokers misattribute the ability of cigarettes to relieve withdrawal, to their ability to relieve symptoms of psychological distress (Parrott,, )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 3,
+    "sentence": 3,
+    "id": "N05-P03-S03",
+    "heading": "Discussion",
+    "text": "For example, withdrawal symptoms include depressed mood, anxiety and irritability, and smoking a cigarette alleviates those symptoms (Hughes, )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 3,
+    "sentence": 4,
+    "id": "N05-P03-S04",
+    "heading": "Discussion",
+    "text": "Since many withdrawal symptoms are similar to the negative symptoms of schizophrenia and mood symptoms in depression, their alleviation by smoking could give rise to the strong belief that smoking helps to alleviate mental health symptoms."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 4,
+    "sentence": 1,
+    "id": "N05-P04-S01",
+    "heading": "Discussion",
+    "text": "A potential biological mechanism for the bi-directional causal effects of smoking, schizophrenia and depression could be neuroadaptations in the dopaminergic and serotonin systems."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 4,
+    "sentence": 2,
+    "id": "N05-P04-S02",
+    "heading": "Discussion",
+    "text": "Nicotine acts on nicotinic cholinergic receptors in the brain stimulating the release of neurotransmitters including dopamine and serotonin (Benowitz, )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 4,
+    "sentence": 3,
+    "id": "N05-P04-S03",
+    "heading": "Discussion",
+    "text": "Dopamine and serotonin dysfunction have been implicated in the aetiology of schizophrenia and depression, respectively (Howes, McCutcheon, & Stone,; Jakubovski, Varigonda, Freemantle, Taylor, & Bloch, )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 4,
+    "sentence": 4,
+    "id": "N05-P04-S04",
+    "heading": "Discussion",
+    "text": "It is plausible, therefore, that disruption of these pathways has a causal effect on these disorders."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 4,
+    "sentence": 5,
+    "id": "N05-P04-S05",
+    "heading": "Discussion",
+    "text": "Alternatively, cannabis use could be a mediating mechanism for the effects of smoking on schizophrenia and depression."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 4,
+    "sentence": 6,
+    "id": "N05-P04-S06",
+    "heading": "Discussion",
+    "text": "In prospective studies, cigarette smoking has been shown to increase risk of cannabis dependence (Hindocha et al., )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 4,
+    "sentence": 7,
+    "id": "N05-P04-S07",
+    "heading": "Discussion",
+    "text": "There is strong evidence suggesting that cannabis use increases the risk of psychosis and affective disorders (Moore et al., )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 4,
+    "sentence": 8,
+    "id": "N05-P04-S08",
+    "heading": "Discussion",
+    "text": "This vertical pleiotropy does not violate the assumptions of MR, but simply means there are intermediate mechanisms operating between the exposure and the outcome."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 4,
+    "sentence": 9,
+    "id": "N05-P04-S09",
+    "heading": "Discussion",
+    "text": "However, the strong effects we observe for lifetime smoking suggest that any mediating influence of cannabis use is likely to only partially account for these effects, given the relatively low prevalence of cannabis use [e.g. annual prevalence in the UK of ~7% in 2010 (United Nations Office on Drugs and Crime (UNODC), )]."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 4,
+    "sentence": 10,
+    "id": "N05-P04-S10",
+    "heading": "Discussion",
+    "text": "Multivariable MR analysis of tobacco and cannabis use would help resolve this question."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 5,
+    "sentence": 1,
+    "id": "N05-P05-S01",
+    "heading": "Discussion",
+    "text": "Finally, although we are using the method of MR to provide stronger causal inference, the best evidence of a causal effect comes from many corroborating lines of evidence from study designs with diverse assumptions."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 5,
+    "sentence": 2,
+    "id": "N05-P05-S02",
+    "heading": "Discussion",
+    "text": "Looking at our current results alongside previous literature, we conclude this strengthens evidence for an effect of smoking on increased risk of depression and schizophrenia."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 5,
+    "sentence": 3,
+    "id": "N05-P05-S03",
+    "heading": "Discussion",
+    "text": "Future work should attempt to elucidate the underlying mechanisms with a hope to intervene, inform public health messages or further advance our knowledge on the aetiology of mental illness."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 5,
+    "sentence": 4,
+    "id": "N05-P05-S04",
+    "heading": "Discussion",
+    "text": "In particular, it will be important to consider other constituents of tobacco smoke to determine whether it is exposure to nicotine or some other constituent that increases risk of schizophrenia and depression."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 5,
+    "sentence": 5,
+    "id": "N05-P05-S05",
+    "heading": "Discussion",
+    "text": "This is particularly important in the context of the recent growth in electronic cigarette use."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 6,
+    "sentence": 1,
+    "id": "N05-P06-S01",
+    "heading": "Discussion",
+    "text": "Our study is the first to generate a genetic instrument for lifetime smoking behaviour in a large sample, which allows the use of two-sample MR with summary data from unstratified samples to answer questions about the association between smoking and other health outcomes."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 6,
+    "sentence": 2,
+    "id": "N05-P06-S02",
+    "heading": "Discussion",
+    "text": "However, there are some limitations which should be noted."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 6,
+    "sentence": 3,
+    "id": "N05-P06-S03",
+    "heading": "Discussion",
+    "text": "First, there is evidence to suggest that even after seemingly controlling for population structure in GWAS of samples as large as the UK Biobank, coincident apparent structure remains (Haworth et al., )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 6,
+    "sentence": 4,
+    "id": "N05-P06-S04",
+    "heading": "Discussion",
+    "text": "This might confound the association between smoking and mental health, increasing the risk of false positives."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 6,
+    "sentence": 5,
+    "id": "N05-P06-S05",
+    "heading": "Discussion",
+    "text": "As independent samples with adequate sample size become available, the influence of structure should be further explored."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 6,
+    "sentence": 6,
+    "id": "N05-P06-S06",
+    "heading": "Discussion",
+    "text": "However, it is reassuring that our instrument predicted lifetime smoking in an independent replication sample, where such issues would not arise in the same manner."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 7,
+    "sentence": 1,
+    "id": "N05-P07-S01",
+    "heading": "Discussion",
+    "text": "Second, sample overlap in two-sample MR can bias results towards the observational estimate (Burgess et al., )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 7,
+    "sentence": 2,
+    "id": "N05-P07-S02",
+    "heading": "Discussion",
+    "text": "There was some sample overlap between the major depression GWAS (Wray et al., ) and the UK Biobank (used to derive the lifetime smoking instrument and included in the smoking initiation GWAS) meaning that the effects could be inflated."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 7,
+    "sentence": 3,
+    "id": "N05-P07-S03",
+    "heading": "Discussion",
+    "text": "Therefore, a sensitivity analysis was conducted using a previous GWAS of major depression (Ripke et al., ) which showed the same direction of effect despite lower power."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 7,
+    "sentence": 4,
+    "id": "N05-P07-S04",
+    "heading": "Discussion",
+    "text": "This gives us confidence in the bi-directional effects of smoking and depression, despite sample overlap."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 7,
+    "sentence": 5,
+    "id": "N05-P07-S05",
+    "heading": "Discussion",
+    "text": "This sensitivity analysis also addresses recent concerns over the specificity of the most recent GWAS for major depression (Cai et al., )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 7,
+    "sentence": 6,
+    "id": "N05-P07-S06",
+    "heading": "Discussion",
+    "text": "Comparing self-reported ‘seeking help for depression’ with DSM-diagnosed MDD yielded different results (Cai et al., )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 7,
+    "sentence": 7,
+    "id": "N05-P07-S07",
+    "heading": "Discussion",
+    "text": "However, the earlier GWAS of depression did use Diagnostic and statistical manual diagnosed cases only (Ripke et al., ) and showed the same direction of effect despite lower power."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 8,
+    "sentence": 1,
+    "id": "N05-P08-S01",
+    "heading": "Discussion",
+    "text": "Third, including multiple aspects of smoking behaviour could have introduced more potential for horizontal pleiotropy."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 8,
+    "sentence": 2,
+    "id": "N05-P08-S02",
+    "heading": "Discussion",
+    "text": "The more diffuse the definition of smoking, the more lifestyle factors might be correlated, making it especially important to test for horizontal pleiotropy."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 8,
+    "sentence": 3,
+    "id": "N05-P08-S03",
+    "heading": "Discussion",
+    "text": "We conducted multiple sensitivity analyses (which all make different and largely uncorrelated assumptions), and all demonstrated the same direction of effect."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 8,
+    "sentence": 4,
+    "id": "N05-P08-S04",
+    "heading": "Discussion",
+    "text": "This increases our confidence that the results are not biased by pleiotropy."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 8,
+    "sentence": 5,
+    "id": "N05-P08-S05",
+    "heading": "Discussion",
+    "text": "Furthermore, MR Egger intercepts did not show evidence of directional pleiotropy for schizophrenia or depression."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 8,
+    "sentence": 6,
+    "id": "N05-P08-S06",
+    "heading": "Discussion",
+    "text": "However, further work should still attempt to understand the biological mechanisms underpinning the association to reduce the likelihood of pleiotropic effects."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 9,
+    "sentence": 1,
+    "id": "N05-P09-S01",
+    "heading": "Discussion",
+    "text": "Fourth, schizophrenia and depression are disorders with an average age of onset around early to mid-adulthood (Office for National Statistics,; World Health Organization, )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 9,
+    "sentence": 2,
+    "id": "N05-P09-S02",
+    "heading": "Discussion",
+    "text": "Our measure of lifetime smoking was generated using participants in the UK Biobank aged over 40 years."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 9,
+    "sentence": 3,
+    "id": "N05-P09-S03",
+    "heading": "Discussion",
+    "text": "Therefore, the causal pathway from smoking to schizophrenia and depression risk might initially seem unclear."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 9,
+    "sentence": 4,
+    "id": "N05-P09-S04",
+    "heading": "Discussion",
+    "text": "However, we were not using participants' smoking behaviour at age 40, but rather retrospective lifetime smoking behaviour from age at initiation."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 9,
+    "sentence": 5,
+    "id": "N05-P09-S05",
+    "heading": "Discussion",
+    "text": "It is plausible that smoking behaviour in earlier life could increase risk of later mental health outcomes and exacerbate symptoms, consequently causing more smokers than non-smokers to seek a diagnosis."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 9,
+    "sentence": 6,
+    "id": "N05-P09-S06",
+    "heading": "Discussion",
+    "text": "Furthermore, we saw consistent effects when using smoking initiation as the exposure."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 9,
+    "sentence": 7,
+    "id": "N05-P09-S07",
+    "heading": "Discussion",
+    "text": "Individuals are more likely to initiate smoking prior to the average age at onset of schizophrenia and depression, with 90% of individuals initiating before 18 years of age (Centers for Disease Control and Prevention, )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 9,
+    "sentence": 8,
+    "id": "N05-P09-S08",
+    "heading": "Discussion",
+    "text": "There has also been recent debate in the field about the interpretation of time varying exposures in MR and one way to minimise bias is to use average SNP effects on phenotype across time, as we have done here with our lifetime smoking instrument (Labrecque & Swanson, )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 9,
+    "sentence": 9,
+    "id": "N05-P09-S09",
+    "heading": "Discussion",
+    "text": "We recommend that future studies wishing to examine the effects of smoking on an outcome use multiple instruments for smoking behaviour with consistent evidence across multiple instruments providing the strongest evidence of a causal effect."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 10,
+    "sentence": 1,
+    "id": "N05-P10-S01",
+    "heading": "Discussion",
+    "text": "Fifth, there is a high degree of zero inflation in the distribution of our lifetime smoking index scores with 54% of the sample being never smokers and therefore receiving a score of zero."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 10,
+    "sentence": 2,
+    "id": "N05-P10-S02",
+    "heading": "Discussion",
+    "text": "We decided not to transform the variable given the desire to have interpretable effect sizes for MR and we decided not to exclude never smokers because our instrument is designed to be used in two-sample MR without the need to stratify into smokers and non-smokers."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 10,
+    "sentence": 3,
+    "id": "N05-P10-S03",
+    "heading": "Discussion",
+    "text": "Despite the zero inflation, we see similar effects for lifetime smoking and smoking initiation suggesting that this has not impaired the score."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 10,
+    "sentence": 4,
+    "id": "N05-P10-S04",
+    "heading": "Discussion",
+    "text": "Sixth, the lifetime smoking score was simulated using all-cause mortality and lung cancer as outcomes."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 10,
+    "sentence": 5,
+    "id": "N05-P10-S05",
+    "heading": "Discussion",
+    "text": "The pattern of association between smoking and lung cancer risk compared with risk for schizophrenia and depression is likely to be different."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 10,
+    "sentence": 6,
+    "id": "N05-P10-S06",
+    "heading": "Discussion",
+    "text": "However, increased mortality amongst individuals with schizophrenia and depression is in large part due to smoking-related mortality (Royal College of Physicians, )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 10,
+    "sentence": 7,
+    "id": "N05-P10-S07",
+    "heading": "Discussion",
+    "text": "The effects were modelled on all-cause mortality and lung cancer but no difference to the best fitting value of half-life was observed."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 10,
+    "sentence": 8,
+    "id": "N05-P10-S08",
+    "heading": "Discussion",
+    "text": "We hope that using all-cause mortality as an outcome makes the lifetime smoking instrument broadly applicable to exploring multiple outcomes."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 10,
+    "sentence": 9,
+    "id": "N05-P10-S09",
+    "heading": "Discussion",
+    "text": "Furthermore, the same effects are observed using smoking initiation as the exposure, which does not include the simulated variable."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 11,
+    "sentence": 1,
+    "id": "N05-P11-S01",
+    "heading": "Discussion",
+    "text": "Finally, there is known selection bias in the UK Biobank sample, with participants being more highly educated, less likely to be a smoker and overall healthier than the general UK population (Munafo, Tilling, Taylor, Evans, & Davey Smith, )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 11,
+    "sentence": 2,
+    "id": "N05-P11-S02",
+    "heading": "Discussion",
+    "text": "Of the 9 million individuals contacted, only ~5% consented to take part (Munafo et al., )."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 11,
+    "sentence": 3,
+    "id": "N05-P11-S03",
+    "heading": "Discussion",
+    "text": "Due to the lack of representativeness in the UK Biobank sample, prevalence and incidence rates will not reflect underlying population levels and there is potential for collider bias."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 11,
+    "sentence": 4,
+    "id": "N05-P11-S04",
+    "heading": "Discussion",
+    "text": "If both smoking and liability for schizophrenia and depression reduce the likelihood of participating in the UK Biobank, then this would induce a negative correlation between schizophrenia or depression and smoking."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 11,
+    "sentence": 5,
+    "id": "N05-P11-S05",
+    "heading": "Discussion",
+    "text": "That is the opposite of the effects observed, suggesting our estimates may, if anything, be conservative."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 12,
+    "sentence": 1,
+    "id": "N05-P12-S01",
+    "heading": "Conclusion",
+    "text": "In conclusion, we improved upon previous MR studies of smoking and mental health by using an updated instrument of smoking initiation and by developing a novel genetic instrument of lifetime smoking that can be used in two-sample MR of summary data without stratifying on smoking status or reducing power."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 12,
+    "sentence": 2,
+    "id": "N05-P12-S02",
+    "heading": "Conclusion",
+    "text": "In two-sample MR analysis, there was evidence of an effect between smoking and mental health in both directions; however, the however, the effects for depression on smoking were stronger than for schizophrenia on smoking."
+  },
+  {
+    "paper": "N05",
+    "paragraph": 12,
+    "sentence": 3,
+    "id": "N05-P12-S03",
+    "heading": "Conclusion",
+    "text": "Strong effects of smoking as a risk factor emphasises the detrimental public health consequences of smoking, especially for mental health, and the need to reduce smoking prevalence not only to reduce the burden of physical illness, but also to reduce the burden of mental illness."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 1,
+    "sentence": 1,
+    "id": "N06-P01-S01",
+    "heading": "Discussion",
+    "text": "The findings from this systematic review and meta-analysis suggest consistent evidence of an association between ambient air pollution and clinical dementia, particularly for PM2.5, even below the current EPA annual standard of 12 μg/m3, and well below the limits of the UK (20 μg/m3) and the European Union (25 μg/m3)."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 1,
+    "sentence": 2,
+    "id": "N06-P01-S02",
+    "heading": "Discussion",
+    "text": "Evidence is also suggestive for an association with NO2 and NOx, although with more limited data."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 1,
+    "sentence": 3,
+    "id": "N06-P01-S03",
+    "heading": "Discussion",
+    "text": "Data for other pollutants are even more limited."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 1,
+    "sentence": 4,
+    "id": "N06-P01-S04",
+    "heading": "Discussion",
+    "text": "Although the Knapp-Hartung confidence limits are wide and have better false positive error properties, the consideration of false positive versus false negative error might be different when considering an exposure that everyone is passively exposed to, such as air pollution, rather than, for example, a medication that has been actively prescribed."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 1,
+    "sentence": 5,
+    "id": "N06-P01-S05",
+    "heading": "Discussion",
+    "text": "Our risk of bias assessment suggested that many of the studies have some level of risk of bias, but overall, the pattern of results does not suggest that the biases would have produced a false association."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 1,
+    "sentence": 6,
+    "id": "N06-P01-S06",
+    "heading": "Discussion",
+    "text": "In many cases, any likely bias would be towards the null (away from harm), in particular bias from exposure and outcome misclassification."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 1,
+    "sentence": 7,
+    "id": "N06-P01-S07",
+    "heading": "Discussion",
+    "text": "Although some concern of bias towards harm from confounding exists, studies that used methods that inherently avoided confounding by personal factors, such as socioeconomic status and race and ethnicity, also identified substantial risks of dementia associated with PM2.5."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 1,
+    "id": "N06-P02-S01",
+    "heading": "Discussion",
+    "text": "The characteristic that made the biggest difference to the results was case ascertainment method, with hazard ratios for both PM2.5 and NO2 larger for studies that used active case ascertainment."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 2,
+    "id": "N06-P02-S02",
+    "heading": "Discussion",
+    "text": "The P value for this characteristic from the meta-regression was only 0.06, but this should be considered in light of the fact that fewer than 10 studies per group were included in this meta-regression (and all others), which has been recommended as a minimum to reliably estimate the effects of factors."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 3,
+    "id": "N06-P02-S03",
+    "heading": "Discussion",
+    "text": "The smaller hazard ratio for passive case ascertainment studies likely is a result of more outcome misclassification when passive case ascertainment is used."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 4,
+    "id": "N06-P02-S04",
+    "heading": "Discussion",
+    "text": "Exposure measurement error would not generally differ by this characteristic."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 5,
+    "id": "N06-P02-S05",
+    "heading": "Discussion",
+    "text": "Outcome misclassification (or delay) by socioeconomic status and race and ethnicity likely would bias towards the null (away from harm) in the USA, at least for PM2.5 and NO2, given their relation with air pollution."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 6,
+    "id": "N06-P02-S06",
+    "heading": "Discussion",
+    "text": "Additionally, data from Europe for the association between air pollution and socioeconomic status are mixed, and studies from Asia are scarce."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 7,
+    "id": "N06-P02-S07",
+    "heading": "Discussion",
+    "text": "Regardless, this misclassification bias is unlikely to affect studies that used active case ascertainment."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 8,
+    "id": "N06-P02-S08",
+    "heading": "Discussion",
+    "text": "Bias to the null (away from harm) of any causal effect might also occur because the causally relevant window for air pollutant exposures is not known."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 9,
+    "id": "N06-P02-S09",
+    "heading": "Discussion",
+    "text": "The exposure windows assessed in the different studies might not capture the causally relevant window directly, but rather only correlate with it to different degrees."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 10,
+    "id": "N06-P02-S10",
+    "heading": "Discussion",
+    "text": "This effect would introduce further error in estimation of causally relevant exposure and so also contribute to biasing a causal effect estimate towards the null."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 11,
+    "id": "N06-P02-S11",
+    "heading": "Discussion",
+    "text": "At the same time, if this relevant window is earlier than that measured in a study, decreasing trends over time in pollutants and their variance could lead to bias towards harm because a unit increase in the measured pollutant would represent a larger difference in the earlier pollutant level."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 12,
+    "id": "N06-P02-S12",
+    "heading": "Discussion",
+    "text": "However, this bias would not create a false association, but only potentially amplify a true one."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 13,
+    "id": "N06-P02-S13",
+    "heading": "Discussion",
+    "text": "The three largest effect sizes for PM2.5 among studies that used active case ascertainment were noticeably in the studies that had the lowest exposure variances of all (standard deviation <1 µg/m3)."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 14,
+    "id": "N06-P02-S14",
+    "heading": "Discussion",
+    "text": "Similarly, the two largest effect sizes for PM2.5 among studies that used passive case ascertainment were also in those with the lowest exposure variances (standard deviation ≤1.25 µg/m3 v ≥2 µg/m3)."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 15,
+    "id": "N06-P02-S15",
+    "heading": "Discussion",
+    "text": "Four of these five studies of low exposure variance were in Europe, which could have accounted for the larger effect size seen overall in that region."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 16,
+    "id": "N06-P02-S16",
+    "heading": "Discussion",
+    "text": "These kinds of issues also lead to heterogeneity between studies: I2 estimates were 90% or greater, and T2 close to 0."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 17,
+    "id": "N06-P02-S17",
+    "heading": "Discussion",
+    "text": "The T2 finding might occur when there is imprecision in the estimates and high variance within the study, leading to estimates that vary across studies."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 18,
+    "id": "N06-P02-S18",
+    "heading": "Discussion",
+    "text": "The bias most likely to cause a spuriously harmful association (bias away from the null) is that from postexposure intervention in studies that used passive case ascertainment (a form of detection bias)."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 19,
+    "id": "N06-P02-S19",
+    "heading": "Discussion",
+    "text": "However, the overall results for those studies was a less harmful effect estimate than among the studies that used active case ascertainment."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 2,
+    "sentence": 20,
+    "id": "N06-P02-S20",
+    "heading": "Discussion",
+    "text": "Therefore, bias away from harm (towards the null) from outcome misclassification was likely stronger."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 3,
+    "sentence": 1,
+    "id": "N06-P03-S01",
+    "heading": "Discussion",
+    "text": "The overall effect estimates for the associations were often small, but this finding is typical for studies of health effects of ambient air pollution."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 3,
+    "sentence": 2,
+    "id": "N06-P03-S02",
+    "heading": "Discussion",
+    "text": "When scaled to the same units (eg, effect estimates per 5 µg/m3), the effect estimates that we found were very similar to those found for annual averages and many other outcomes (eg, cardiovascular mortality and respiratory mortality)."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 3,
+    "sentence": 3,
+    "id": "N06-P03-S03",
+    "heading": "Discussion",
+    "text": "The effect estimates associated with air pollution are smaller than those reported for other risk factors for dementia (eg, education and smoking), but given the size of the population that is potentially exposed to air pollutants, the population health implications can be substantial."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 4,
+    "sentence": 1,
+    "id": "N06-P04-S01",
+    "heading": "Discussion",
+    "text": "The estimates that we report apply to the effect of a change in ambient air pollution concentrations in an area, which is what political bodies like the EPA or European Union regulate."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 4,
+    "sentence": 2,
+    "id": "N06-P04-S02",
+    "heading": "Discussion",
+    "text": "However, the assumption is that any causal effect of the air pollutant would have to occur through actual personal exposure."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 4,
+    "sentence": 3,
+    "id": "N06-P04-S03",
+    "heading": "Discussion",
+    "text": "The outdoor ambient concentration of pollutants is substantially mismatched with actual personal exposure because specific behaviours, such as time spent at home (where exposures are estimated), are not captured."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 4,
+    "sentence": 4,
+    "id": "N06-P04-S04",
+    "heading": "Discussion",
+    "text": "The use of such ambient estimates protects against many kinds of confounding, but will result in bias towards the null of any causal effects through personal exposure levels."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 4,
+    "sentence": 5,
+    "id": "N06-P04-S05",
+    "heading": "Discussion",
+    "text": "Nonetheless, the effect estimate tied to the outdoor ambient pollutant measure would be expected to describe the population health benefits of regulatory related changes in outdoor ambient exposure levels."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 5,
+    "sentence": 1,
+    "id": "N06-P05-S01",
+    "heading": "Discussion",
+    "text": "Global estimates of dementia prevalence suggest an increase from 57 million in 2019 to 153 million in 2050."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 5,
+    "sentence": 2,
+    "id": "N06-P05-S02",
+    "heading": "Discussion",
+    "text": "The largest bulk of this comes from population ageing and population growth, but up to 40% of dementia prevalence has been estimated to be prevented by targeting modifiable risk factors."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 5,
+    "sentence": 3,
+    "id": "N06-P05-S03",
+    "heading": "Discussion",
+    "text": "Air pollution is only one of these possible risk factors so any effects of reducing air pollution would certainly be smaller, but air pollution is relatively directly targeted through regulation setting."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 5,
+    "sentence": 4,
+    "id": "N06-P05-S04",
+    "heading": "Discussion",
+    "text": "The contribution of modifiable risk factors to dementia prevalence varies substantially in different regions of the world, with the lowest contribution in high income Asia Pacific region countries, and the highest in African, central European, and Latin American regions."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 5,
+    "sentence": 5,
+    "id": "N06-P05-S05",
+    "heading": "Discussion",
+    "text": "A reduction in air pollution limits would be likely to have differential impact on dementia prevalence worldwide too because pollution levels vary widely."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 5,
+    "sentence": 6,
+    "id": "N06-P05-S06",
+    "heading": "Discussion",
+    "text": "Nonetheless, reductions in air pollution levels anywhere would be expected to have an effect commensurate with the level of reduction enacted."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 6,
+    "sentence": 1,
+    "id": "N06-P06-S01",
+    "heading": "Discussion",
+    "text": "Many potential biological mechanisms have been suggested to underlie associations between air pollutant exposures and dementia."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 6,
+    "sentence": 2,
+    "id": "N06-P06-S02",
+    "heading": "Discussion",
+    "text": "Cardiovascular effects of air pollutants are well known, as are cardiovascular conditions as risk factors for dementia."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 6,
+    "sentence": 3,
+    "id": "N06-P06-S03",
+    "heading": "Discussion",
+    "text": "Although some papers suggest that vascular factors could mediate an association between air pollutants and dementia, issues with these kinds of analyses can complicate interpretation."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 6,
+    "sentence": 4,
+    "id": "N06-P06-S04",
+    "heading": "Discussion",
+    "text": "Particulate matter exposure has been found to result in systemic inflammation, damage to the blood–brain barrier, changes in different neurotransmitter levels, and increases in neuroinflammation that can lead to neuronal death."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 6,
+    "sentence": 5,
+    "id": "N06-P06-S05",
+    "heading": "Discussion",
+    "text": "Microglia can be particularly relevant cells for these issues as the resident immune cells of the brain that respond to injury, produce local cytokines, and have been shown to actively eliminate synapses."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 6,
+    "sentence": 6,
+    "id": "N06-P06-S06",
+    "heading": "Discussion",
+    "text": "Toxic activation of microglia, possibly contributed to by air pollutant exposures, might lead to aberrant synapse elimination in older age that is part of the pathway to dementia."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 6,
+    "sentence": 7,
+    "id": "N06-P06-S07",
+    "heading": "Discussion",
+    "text": "Demonstration of these types of mechanisms occurring in humans, however, is difficult."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 6,
+    "sentence": 8,
+    "id": "N06-P06-S08",
+    "heading": "Discussion",
+    "text": "Although neuroimaging studies of brain effects of air pollutants are increasing, the literature is hard to synthesise and clear evidence for particular mechanisms of action linking air pollutant exposures to dementia is still elusive."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 7,
+    "sentence": 1,
+    "id": "N06-P07-S01",
+    "heading": "Discussion",
+    "text": "Few studies have used active case identification approaches, considered pollutants other than PM2.5, and considered multiple pollutants simultaneously."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 7,
+    "sentence": 2,
+    "id": "N06-P07-S02",
+    "heading": "Discussion",
+    "text": "Additionally, other exposures (eg, noise) that could co-vary with air pollutants might also need to be considered."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 7,
+    "sentence": 3,
+    "id": "N06-P07-S03",
+    "heading": "Discussion",
+    "text": "Studies that seek to identify the causally relevant time windows for exposure and further evaluate exposure-response associations are needed, as are those that can provide additional insight into underlying mechanisms that are affected by these exposures."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 7,
+    "sentence": 4,
+    "id": "N06-P07-S04",
+    "heading": "Discussion",
+    "text": "Meta-analyses of hazard ratios have inherent issues that can compromise comparability across studies."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 7,
+    "sentence": 5,
+    "id": "N06-P07-S05",
+    "heading": "Discussion",
+    "text": "If a causal effect that is not constant over time is true, hazard ratios can change with longer follow-up after exposure."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 7,
+    "sentence": 6,
+    "id": "N06-P07-S06",
+    "heading": "Discussion",
+    "text": "Typically, this biases a true effect towards the null with longer follow-up because susceptible individuals get the outcome and are censored."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 7,
+    "sentence": 7,
+    "id": "N06-P07-S07",
+    "heading": "Discussion",
+    "text": "We found a slightly larger hazard ratio with a longer follow-up, which could instead suggest that effects of air pollutant exposures take some time to manifest."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 7,
+    "sentence": 8,
+    "id": "N06-P07-S08",
+    "heading": "Discussion",
+    "text": "Lastly, assessment of the possibility of publication bias is difficult."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 7,
+    "sentence": 9,
+    "id": "N06-P07-S09",
+    "heading": "Discussion",
+    "text": "The problems with the use of funnel plots to assess publication bias have been described, and the issues of numbers of studies and other reasons (than publication bias) for heterogeneity between studies are issues of particular concern in the context of the air pollution and dementia literature."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 8,
+    "sentence": 1,
+    "id": "N06-P08-S01",
+    "heading": "Discussion",
+    "text": "Our results suggest that exposure to ambient PM2.5 is associated with a higher rate of dementia, and likely NO2 and NOx as well, but with more limited data."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 8,
+    "sentence": 2,
+    "id": "N06-P08-S02",
+    "heading": "Discussion",
+    "text": "Our risk of bias assessment and results of stratified meta-analyses suggest that the predominant biases are probably away from harm rather than towards it."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 8,
+    "sentence": 3,
+    "id": "N06-P08-S03",
+    "heading": "Discussion",
+    "text": "Nonetheless, the many limitations discussed in meta-analysing observational studies of environmental exposures, such as air pollution, mean that findings must be interpreted with caution."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 8,
+    "sentence": 4,
+    "id": "N06-P08-S04",
+    "heading": "Discussion",
+    "text": "Nevertheless, given the available data, our results suggest that the best estimate for the effect of a 2 μg/m3 higher concentration of PM2.5 is a hazard ratio of 1.42 (95% confidence interval 1.00 to 2.02) based on the studies that used active case ascertainment."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 8,
+    "sentence": 5,
+    "id": "N06-P08-S05",
+    "heading": "Discussion",
+    "text": "However, given concerns of time trend bias and causally relevant time windows, a more conservative estimate is 1.17 (0.96 to 1.43) after removing four studies for these reasons."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 8,
+    "sentence": 6,
+    "id": "N06-P08-S06",
+    "heading": "Discussion",
+    "text": "With either estimate, the confidence limits are likely too wide given the number and characteristics of the included studies."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 8,
+    "sentence": 7,
+    "id": "N06-P08-S07",
+    "heading": "Discussion",
+    "text": "Our results strengthen the evidence that air pollutants are risk factors for dementia, further suggesting that efforts to reduce population exposures to these contaminants might help to reduce the personal, financial, and societal burden of dementia."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 8,
+    "sentence": 8,
+    "id": "N06-P08-S08",
+    "heading": "Discussion",
+    "text": "To some degree, this reduction can be done on a personal level and clinicians should communicate the risks of air pollutant exposures to their patients."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 8,
+    "sentence": 9,
+    "id": "N06-P08-S09",
+    "heading": "Discussion",
+    "text": "More importantly, steps can be taken at a broader public policy level."
+  },
+  {
+    "paper": "N06",
+    "paragraph": 8,
+    "sentence": 10,
+    "id": "N06-P08-S10",
+    "heading": "Discussion",
+    "text": "These findings can provide regulatory agencies and others with a best estimate for use in burden of disease estimation and regulation setting efforts, as well as inform summaries of risk factors for dementia."
+  }
+]
